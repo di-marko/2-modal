@@ -1,7 +1,7 @@
 # React
 
 Click the button and be blown away.
-You can view live project [HERE](https://di-marko.github.io/2-modal)
+You can view live project [HERE](https://di-marko.github.io/2-modal).
 
 ### Modal Window
 
