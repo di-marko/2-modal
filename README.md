@@ -2,7 +2,8 @@
 
 ### Modal Modal
 
-![modal screenshot](/public/....)
+![modal window button](/public/image.png)
+![opened modal window](/public/image2.png)
 
 ### 👀 Summary:
 
