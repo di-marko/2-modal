@@ -1,6 +1,8 @@
 # React
 
-### Modal Modal
+Click the button and be blown away.
+
+### Modal Window
 
 ![modal window button](/public/image.png)
 ![opened modal window](/public/image2.png)
